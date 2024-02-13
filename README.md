@@ -2,7 +2,7 @@
 
 # สมุดบันทึก
 
-สำหรับวิชา OOP
+สำหรับYoutube [Youtube](https://www.youtube.com/@BLACKPINK)
 
 ![download banner](./banner.jpg)
 
