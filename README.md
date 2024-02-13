@@ -2,7 +2,7 @@
 
 # สมุดบันทึก
 
-สำหรับYoutube [Youtube](https://www.youtube.com/@BLACKPINK)
+สำหรับการติดตาม [Youtube](https://www.youtube.com/@BLACKPINK)
 
 ![download banner](./banner.jpg)
 
